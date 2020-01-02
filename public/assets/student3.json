@@ -1,0 +1,14 @@
+{
+  "id": 20177209,
+  "name": " John",
+  "email": "John@gmail.com",
+  "phone": "123-456-7890",
+  "city": "Falls Church",
+  "state": "VS",
+  "country": "US",
+  "school": "Stratford",
+  "status": "Graduate student",
+  "fee": "$2541",
+  "additionalinfo": "This student is from UK ",
+  "creditTransfer": 0
+}

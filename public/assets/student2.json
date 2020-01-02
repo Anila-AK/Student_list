@@ -1,0 +1,14 @@
+{
+  "id": 20178306,
+  "name": " Mike",
+  "email": "mike@gmail.com",
+  "phone": "175-456-8890",
+  "city": "Falls Church",
+  "state": "VS",
+  "country": "US",
+  "school": "Stratford",
+  "status": "Graduate student",
+  "fee": "$2541",
+  "additionalinfo": "This student is from US ",
+  "creditTransfer": 0
+}
